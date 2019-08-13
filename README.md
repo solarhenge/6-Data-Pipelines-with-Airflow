@@ -42,7 +42,7 @@ To avoid aws expenses, I performed the majority of the tasks on my local Windows
 
 The software configuration is as follows:
 |Item|Version|
-|----|-----|
+|----|-------|
 |Microsoft Windows 10 Home|10.0.18362 Build 18362
 |Ubuntu|18.04 LTS
 |Python|3.6.8
