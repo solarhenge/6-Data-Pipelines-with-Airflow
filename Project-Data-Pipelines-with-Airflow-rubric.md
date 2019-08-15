@@ -48,9 +48,10 @@
 |The operator raises an error if the check fails pass|The DAG either fails or retries n times
 |The operator is parametrized|Operator uses params to get the tests and the results, tests are not hard coded to the operator
 
-<p style="text-align: center;">Suggestions to Make Your Project Stand Out!</p>
-
+### Suggestions to Make Your Project Stand Out!
+```
 * Simple and dynamic operators, as little hard coding as possible
 * Effective use of parameters in tasks
 * Clean formatting of values in SQL strings
 * Load dimensions with a subdag
+```
